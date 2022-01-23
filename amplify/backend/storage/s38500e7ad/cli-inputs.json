@@ -1,0 +1,16 @@
+{
+  "resourceName": "s38500e7ad",
+  "policyUUID": "8500e7ad",
+  "bucketName": "amplifyvueaddedbc6827e493ba35208b198513318",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
